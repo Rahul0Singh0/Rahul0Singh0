@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul0singh0&label=Profile%20views&color=0e75b6&style=flat" alt="rahul0singh0" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahul0singh0" target="blank"><img src="https://img.shields.io/twitter/follow/rahul0singh0?logo=twitter&style=for-the-badge" alt="rahul0singh0" /></a> </p>
 
-- 🌱 I’m currently learning **react, node**
+- 🌱 I’m currently learning **react, node.js**
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **C/C++, DSA, OOPs, javacript, react, node.js, dbms, sql......**
 
 - 📫 How to reach me **singhrahul12024@gmail.com**
 
