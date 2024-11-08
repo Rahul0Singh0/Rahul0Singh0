@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singhrahul12024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y2OBcj-lKwiHk9CkQhFOx7dRDOsND6Pg/view?usp=sharing](https://drive.google.com/file/d/1Y2OBcj-lKwiHk9CkQhFOx7dRDOsND6Pg/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/kByOf](https://shorturl.at/kByOf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
